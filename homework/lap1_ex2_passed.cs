@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace homework
 {
-    internal class passed
+    internal class lap1_ex2_passed
     {
         static void Main(string[] args)
         {

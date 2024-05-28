@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace homework
 {
-    internal class Languages
+    internal class lap1_ex6_Languages
     {
         static void Main(string[] args)
         {

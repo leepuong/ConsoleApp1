@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace homework
 {
-    internal class findMonth
+    internal class lap1_ex5_findMonth
     {
         static void Main(string[] args)
         {

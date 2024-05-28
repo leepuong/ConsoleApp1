@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace homework
 {
-    internal class backin30m
+    internal class lap1_ex4_backin30m
     {
         static void Main(string[] args)
         {

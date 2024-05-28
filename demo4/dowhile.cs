@@ -24,6 +24,8 @@ namespace demo4
                 
             }
             while( p != pass );
+
+
             if (i >= 3)
                 {
                     Console.WriteLine("wrong the pass");

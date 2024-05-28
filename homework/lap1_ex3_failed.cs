@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace homework
 {
-    internal class failed
+    internal class lap1_ex3_failed
     {
         static void Main(string[] args)
         {
