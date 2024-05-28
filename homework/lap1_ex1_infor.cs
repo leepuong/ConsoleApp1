@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace homework
 {
-    internal class infor
+    internal class lap1_ex1_infor
     {
         static void Main(string[] args)
         {

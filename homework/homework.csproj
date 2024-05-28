@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>homework.Languages</StartupObject>
+    <StartupObject>homework.ex1_SumNOdds</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="backin30m.cs" />
+    <Compile Include="ex1_SumNOdds.cs" />
     <Compile Include="failed.cs" />
     <Compile Include="infor.cs" />
     <Compile Include="Languages.cs" />
