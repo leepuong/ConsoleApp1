@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "homework\homewo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "looklikePy", "looklikePy\looklikePy.csproj", "{19A21E86-7213-4FDE-BDFB-D3700BABA32B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo4", "demo4\demo4.csproj", "{77DEC77A-1A63-472A-B704-B619366A070A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{19A21E86-7213-4FDE-BDFB-D3700BABA32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19A21E86-7213-4FDE-BDFB-D3700BABA32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19A21E86-7213-4FDE-BDFB-D3700BABA32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DEC77A-1A63-472A-B704-B619366A070A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DEC77A-1A63-472A-B704-B619366A070A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DEC77A-1A63-472A-B704-B619366A070A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DEC77A-1A63-472A-B704-B619366A070A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

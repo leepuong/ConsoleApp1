@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{19A21E86-7213-4FDE-BDFB-D3700BABA32B}</ProjectGuid>
+    <ProjectGuid>{77DEC77A-1A63-472A-B704-B619366A070A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>looklikePy</RootNamespace>
-    <AssemblyName>looklikePy</AssemblyName>
+    <RootNamespace>demo4</RootNamespace>
+    <AssemblyName>demo4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>looklikePy.array</StartupObject>
+    <StartupObject>demo4.array</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,10 +47,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="array.cs" />
-    <Compile Include="nguyento.cs" />
-    <Compile Include="chanle.cs" />
+    <Compile Include="congnhan.cs" />
+    <Compile Include="factorial.cs" />
+    <Compile Include="for.cs" />
+    <Compile Include="forxif.cs" />
+    <Compile Include="lim.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="testgit.cs" />
+    <Compile Include="sumOfSquares.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

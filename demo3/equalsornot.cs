@@ -28,6 +28,8 @@ namespace demo3
                 Console.WriteLine("a bang b");
             }
             Console.ReadKey();
+            Console.ReadKey();
+
 
         }
     }
