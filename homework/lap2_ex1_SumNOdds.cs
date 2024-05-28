@@ -11,9 +11,9 @@ namespace homework
         static void Main(string[] args)
         {
             int s = 0,p;
-            Console.Write("input n of odd numbers: ");
+            Console.Write("input n of odd numbers :: ");
             int n = int.Parse(Console.ReadLine());
-            Console.WriteLine("__________________________");
+            Console.WriteLine("------------------------");
 
             for (int i = 0; i <n; i++)
             {
@@ -22,7 +22,9 @@ namespace homework
                 Console.WriteLine(p);
 
             }
-            Console.Write("yaa~");
+            Console.WriteLine("------------------------");
+
+            Console.Write("sum is :: ");
             Console.Write(s);
             Console.ReadKey ();
         }
