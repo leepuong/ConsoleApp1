@@ -11,13 +11,13 @@ namespace homework
         static void Main(string[] args)
         {
 
-            Console.Write("day : ");
+            Console.Write("input a :: ");
             int d = int.Parse(Console.ReadLine());
             int k = 0;
 
             for(int i = 0; i < d; i++)
             {
-                string x = ".";
+                string x = "";
                 for(int j = 0;j <= k; j++)
                 {
                     x += " *";

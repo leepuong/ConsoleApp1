@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>homework.lap2_ex6_pattenOfNumber</StartupObject>
+    <StartupObject>homework.lap2_ex4_evencheck</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -56,7 +56,6 @@
     <Compile Include="lap2_ex3_multitable2.cs" />
     <Compile Include="lap2_ex4_evencheck.cs" />
     <Compile Include="lap2_ex5_pattern-draw.cs" />
-    <Compile Include="lap2_ex6_pattenOfNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="lap1_ex5_findMonth.cs" />
     <Compile Include="lap1_ex7_ticket .cs" />
