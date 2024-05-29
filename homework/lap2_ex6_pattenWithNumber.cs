@@ -13,16 +13,16 @@ namespace homework
             Console.Write("input number :: ");
             int n = int.Parse(Console.ReadLine());
 
-            int step = 1;
+            int s = 1;
             for (int i = 1; i <= n; i++)
             {
                 string x = "";
-                for (int j = 1;j <= step; j++)
+                for (int j = 1;j <= s; j++)
                 {
                     x = x + j;
                 }
                 Console.WriteLine(x);
-                step++;
+                s++;
 
             }
             Console.ReadLine();
