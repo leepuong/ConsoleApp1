@@ -12,6 +12,7 @@ namespace homework
         {
 
             int n;
+            
             do
             {
                 Console.Write("input n :: ");
@@ -20,8 +21,10 @@ namespace homework
                 {
                     Console.WriteLine("Please write an even number.");
                 }
-
-
+                else if (n < 0)
+                {
+                    n = -n;
+                }
 
             }
             while (n % 2 != 0);
