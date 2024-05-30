@@ -19,7 +19,7 @@ namespace homework
                 string x = "";
                 for (int j = 1;j <= s; j++)
                 {
-                    x = x + j;
+                    x = x + " " +j;
                 }
                 Console.WriteLine(x);
                 s++;
